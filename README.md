@@ -1,2 +1,2 @@
 # Reuploaded-Scripts
-Scripts that are, uploaded (obviously)
+Scripts that are, reuploaded (obviously)
